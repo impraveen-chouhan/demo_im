@@ -1,0 +1,57 @@
+{
+    "name": "TEST #3",
+    "symbol": "TEST",
+    "description": "test description",
+    "edition": 1,
+    "seller_fee_basis_points": 600,
+    "image": "https://raw.githubusercontent.com/impraveen-chouhan/demo_im/main/3.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Northern Lights"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Concrete"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Surprise"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Skeptical"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Camera"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Sushi Chef"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Aviator"
+      }
+    ],
+    "collection": {
+      "name": "TEST COLLECTION",
+      "family": "TEST"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/impraveen-chouhan/demo_im/main/3.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "GruSFAjP7gtmJ9k3SBAiCrMXyUByGJKR885MhKWM9KJD",
+          "share": 100
+        }
+      ]
+    }
+  }
